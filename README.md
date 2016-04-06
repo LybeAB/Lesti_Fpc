@@ -15,6 +15,10 @@ Develop | [![Build Status](https://img.shields.io/travis/GordonLesti/Lesti_Fpc/d
 * PHP 5.4 or higher
 * Magento CE1.5.x-1.9.x
 
+
+add submodule Cm_Cache_Backend_Redis For redis backend
+Please read https://github.com/colinmollenhour/Cm_Cache_Backend_Redis for more informations 
+
 ## Installation
 
 * Install with [modman](https://github.com/colinmollenhour/modman):
