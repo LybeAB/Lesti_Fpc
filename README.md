@@ -35,3 +35,6 @@ Please read https://github.com/colinmollenhour/Cm_Cache_Backend_Redis for more i
     * Download latest version [here](https://github.com/GordonLesti/Lesti_Fpc/archive/master.zip)
     * Unzip
     * Copy `app` directory into Magento
+
+# submodule_test
+* commit A
